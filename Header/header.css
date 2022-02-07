@@ -1,0 +1,24 @@
+.si{
+    background-color: black;
+  }
+  #bar{
+    padding: 0px;
+  }
+  .nav{
+    padding: 0px;
+  }
+  .navbar{
+    padding-top: 0rem;
+      padding-bottom: 0rem
+  }
+  .nav-link{
+    background-color: rgb(11, 12, 14);
+  }
+  
+  
+  .navbar>.container-fluid{
+    background-color: black;
+  
+  
+  }
+  
